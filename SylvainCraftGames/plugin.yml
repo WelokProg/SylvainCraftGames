@@ -1,0 +1,10 @@
+name: SylvainCraftGames
+version: 2.0
+author: Probisk
+main: ca.probisk.scg.Main
+api-version: 1.16
+commands:
+  createarena:
+    permission: scg.createarena
+  accept:
+    permission: scg.duel.accept
